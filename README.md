@@ -40,4 +40,4 @@ Yes it does, but no. Everything is done on your local computer. EdgeDeflector re
 
 ## How do I uninstall EdgeDeflector?
 
-From Add and Remove Programs in the Windows Settings app.
+From Add and Remove Programs in the Windows Settings app..
